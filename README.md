@@ -8,5 +8,5 @@
 
 Clonar el repositorio a su pc, ejecutar `run npm install` para instalar las dependecias.
 
-Ejecutar `npm run dev`. Acceder a localhost:4000.
+Ejecutar `npm start`. Acceder a localhost:4000.
 
